@@ -114,7 +114,7 @@ function App() {
         </form>
         <h2 className="text-center mt-6">
           Don't have account ?{" "}
-          <span className=" cursor-pointer  text-orange-500 font-semibold hover:underline">
+          <span className=" cursor-pointer text-orange-500 font-semibold hover:underline">
             Register
           </span>
         </h2>
